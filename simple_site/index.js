@@ -75,7 +75,7 @@ __SYD.container = () =>{
                         'h2',
                         {},
                         [
-                            'PRESIDENT XI Jinping'
+                            'PRESIDENT XI Jinping $RULE'
                         ]
                     ),
                     __c(
@@ -193,7 +193,7 @@ __SYD.buy_section = () =>{
                                     '3'
                                 ]
                             ),
-                            __c('p',{},['Buy $BIAO at ',__c('a',{href:'https://sunpump.meme/token/'},['https://sunpump.meme/token/'])])
+                            __c('p',{},['Buy PRESIDENT XI Jinping $RULE at ',__c('a',{href:'https://sunpump.meme/token/'},['https://sunpump.meme/token/'])])
                         ]
                     )
                 ]
