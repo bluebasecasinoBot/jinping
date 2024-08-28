@@ -34,7 +34,7 @@ __SYD._p2 = () =>{
                     style:`min-height:fit-content;height:100%;width:${__p(['_p2','_flex'],'row') === 'row' ? '60%' : '100%'};background:transparent;display:flex;justify-content:center;align-items:center;flex-direction:column;row-gap:20px;z-index:300;padding-top:20%;`
                 },
                 [
-                    __c('h2',{class:'',style:`color:#ffb973;text-align:center;width:100%;font-size:${__p(['_p2','__font'],{2:'50px'})['2']}`},['PRESIDENT XI Jinping']),
+                    __c('h2',{class:'',style:`color:#ffb973;text-align:center;width:100%;font-size:${__p(['_p2','__font'],{2:'50px'})['2']}`},['PRESIDENT XI Jinping $RULE']),
                     // __c('h1',{class:'',style:`font-family:sunrise;font-size:${__p(['_p2','__font'],{1:'70px'})['1']};`},['$JADE']),
                     // __c('h2',{class:'',style:`color:#ffb973;text-align:center;width:100%;font-size:${__p(['_p2','__font'],{2:'50px'})['2']}`},['The Celestial Meme Coin on the Tron Blockchain!']),
                     __SYD.about_text_p2(),
